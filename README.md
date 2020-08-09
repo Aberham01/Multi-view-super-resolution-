@@ -1,4 +1,4 @@
 # Multi-view-super-resolution-
 
 
-Using OpenGL
+Using OpenGL C++
